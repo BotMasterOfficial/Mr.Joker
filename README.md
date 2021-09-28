@@ -1,6 +1,6 @@
 #
 
-<a href="https://github.com/BotMasterOfficial/Mr.Joker"><img src="https://img.shields.io/badge/Mr.Joker-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<p align="center"><a href="https://github.com/BotMasterOfficial/Mr.Joker"><img src="https://img.shields.io/badge/Mr.Joker-gold?&style=flat-square?&logo=github" width=600px></a></p>
 
 #
 
@@ -36,26 +36,22 @@ For easiest way to deploy this Bot click on the below button
 <p align="center">
     <a href="https://t.me/mkspali"> <img src="https://img.shields.io/badge/Bestest-Master-ff69b4" /> </a>
 </p>
-<a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/Telegram-Mukesh%20Solanki-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<p align="center"><a href="https://t.me/mkspali"><img src="https://img.shields.io/badge/Telegram-Mukesh%20Solanki-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
 ##
 
 ## Sᴜᴘᴘᴏʀᴛ
 
-<p align="center">
-    <a href="https://t.me/BotMasterOfficial"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
-</p>
-<a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20Official%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<p align="center"><a href="https://t.me/BotMasterOfficial"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a></p>
+<p align="center"><a href="https://t.me/BotMasterOfficial"><img src="https://img.shields.io/badge/Telegram-Bot%20Master%20Official%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
 ##
 
 ## Sᴏᴜʀᴄᴇ
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/>
-</p>
+<p align="center"><img src="https://img.shields.io/badge/Python-black" width=50px/>  <img src="https://img.shields.io/badge/Telethn-black" width=50px/></p>
 
 ##
 
@@ -66,10 +62,8 @@ For easiest way to deploy this Bot click on the below button
 ##
 
 ## Find Mr.Joker on Telegram
-<p align="center">
-    <a href="https://t.me/Mrjokerlk_bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
-    <a href="https://t.me/Mrjokerlk_bot"><img src="https://img.shields.io/badge/Telegram-Mr.Joker-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
-</p>
+<p align="center"><a href="https://t.me/Mrjokerlk_bot"> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a></p>
+<p align="center"><a href="https://t.me/Mrjokerlk_bot"><img src="https://img.shields.io/badge/Telegram-Mr.Joker-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 ##
 
