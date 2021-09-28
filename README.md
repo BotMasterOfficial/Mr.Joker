@@ -27,6 +27,8 @@ For easiest way to deploy this Bot click on the below button
 
 <p align="center"><a href="https://qovery.com"> <img src="https://img.shields.io/badge/Deploy%20Qovery-black.svg?&style=flat-square?&logo=gitlab" width="220" /></a></p>
 
+[![Deploy To Railway](https://railway.app/button.svg)](https://railway.app)
+
 ##
 
 ## Mᴀᴅᴇ Bʏ
